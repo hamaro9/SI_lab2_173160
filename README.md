@@ -3,7 +3,8 @@
 **1. Група на код: 5**
 
 **2. Слика од CFG**
-![CFG](https://drive.google.com/file/d/1V8NfO_nvbB6WMCOLpDCfKyV31-9qDLUZ/view?usp=sharing)
+
+<img src="https://drive.google.com/file/d/1V8NfO_nvbB6WMCOLpDCfKyV31-9qDLUZ/view?usp=sharing">
 
 **3. Пресметка за цикломатската комплексност на функцијата:**
 
