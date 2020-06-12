@@ -4,7 +4,7 @@
 
 **2. Слика од CFG**
 
-<img src="https://drive.google.com/file/d/1V8NfO_nvbB6WMCOLpDCfKyV31-9qDLUZ/view?usp=sharing">
+<img src="/softversko/SIlab2/CFG-SI (4).png"/>
 
 **3. Пресметка за цикломатската комплексност на функцијата:**
 
